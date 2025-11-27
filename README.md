@@ -17,10 +17,11 @@ from my Statistics & Data Analysis degree at the University of Vienna.
 1. **NPS Analysis – Telecom Provider**  
    *Python, SQL, Tableau*  
    Segment customers by NPS (Promoters / Passives / Detractors), explore drivers of loyalty and
-   visualize results in an interactive dashboard.  
-   👉 [`/NPS`](./NPS)
+   visualize results in an interactive dashboard.
+   
+   👉 [`/NPS.ipynb`](./NPS.ipynb)
 
-2. **Borrower Reliability – Credit Risk Analysis**  
+3. **Borrower Reliability – Credit Risk Analysis**  
    *Python, Pandas, NumPy, Seaborn, Matplotlib, Cursor*  
    This project analyzes the factors that influence a borrower’s ability to repay a loan on time.
    The study includes data preprocessing, grouping & aggregation, visualizations, insights and interpretations, final summary answering all business questions.
