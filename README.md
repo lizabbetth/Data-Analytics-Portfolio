@@ -13,23 +13,25 @@ from my Statistics & Data Analysis degree at the University of Vienna.
 
 ## 🔹 Highlighted Projects
 
-1. **Procrastinate Pro+ – Marketing ROI Analysis**  
-   *Python, SQL*  
-   Analyze 300k+ rows of marketing/product data to investigate why revenue is declining,
-   calculate ROI by channel/campaign and recommend budget reallocation.  
-   👉 [`/procrastinate_pro_plus`](./procrastinate_pro_plus)
 
-2. **NPS Analysis – Telecom Provider**  
+1. **NPS Analysis – Telecom Provider**  
    *Python, SQL, Tableau*  
    Segment customers by NPS (Promoters / Passives / Detractors), explore drivers of loyalty and
    visualize results in an interactive dashboard.  
    👉 [`/nps_telecom`](./nps_telecom)
 
-3. **Borrower Reliability – Credit Risk Analysis**  
+2. **Borrower Reliability – Credit Risk Analysis**  
    *Python, Pandas, NumPy, Seaborn, Matplotlib, Cursor*  
    This project analyzes the factors that influence a borrower’s ability to repay a loan on time.
    The study includes data preprocessing, grouping & aggregation, visualizations, insights and interpretations, final summary answering all business questions.
    👉 [`/Borrower_Reliability_Study.ipynb`](./Borrower_Reliability_Study.ipynb)
 
+3. **Apartment Listings Market Analysis**
+   *Python, pandas, numpy, matplotlib, seaborn, Jupyter Notebook/Cursor*
+   A full exploratory data analysis of the St. Petersburg real estate market
+   This project analyzes real estate listings from Yandex Real Estate, focusing on apartments in St. Petersburg and surrounding towns.
+   The study includes data cleaning, feature engineering, statistical exploration, and visualization
+   👉 [`/Apartment_Listings_Market_Analysis.ipynb`](./Apartment_Listings_Market_Analysis.ipynb)
+  
 
 
