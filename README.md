@@ -26,18 +26,10 @@ from my Statistics & Data Analysis degree at the University of Vienna.
    👉 [`/nps_telecom`](./nps_telecom)
 
 3. **Borrower Reliability – Credit Risk Analysis**  
-   *Python, scikit-learn*  
-   Build classification models to predict borrower reliability and analyze key risk factors.  
+   *Python, Pandas, NumPy, Seaborn, Matplotlib, Cursor*  
+   This project analyzes the factors that influence a borrower’s ability to repay a loan on time.
+   The study includes data preprocessing, grouping & aggregation, visualizations, insights and interpretations, final summary answering all business questions.
    👉 [`/borrower_reliability`](./borrower_reliability)
 
-4. **University R Projects**  
-   *R, statistics*  
-   Selected assignments from my Statistics & Data Analysis degree: linear models, time series,
-   inference and more, all implemented in R.  
-   👉 [`/uni_r_projects`](./uni_r_projects)
 
-5. **Power BI Dashboards**  
-   *Power BI, data visualization*  
-   Dashboards for sales, NPS and other business scenarios, showcasing my BI and storytelling skills.  
-   👉 [`/powerbi_dashboards`](./powerbi_dashboards)
 
