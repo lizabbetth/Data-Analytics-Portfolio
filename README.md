@@ -9,7 +9,7 @@ from my Statistics & Data Analysis degree at the University of Vienna.
 - **Languages:** Python, R, SQL, Julia
 - **Analytics & Modeling:** pandas, NumPy, scikit-learn, statistics, regression, time series
 - **Visualization & BI:** Power BI, Tableau, matplotlib, seaborn
-- **Tools:** Jupyter Notebook, Git
+- **Tools:** Jupyter Notebook, Cursor, Git
 
 ## 🔹 Highlighted Projects
 
