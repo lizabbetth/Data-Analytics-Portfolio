@@ -17,33 +17,29 @@ from my Statistics & Data Analysis degree at the University of Vienna.
 1. **NPS Analysis – Telecom Provider**  
    *Python, SQL, Tableau*  
    Segment customers by NPS (Promoters / Passives / Detractors), explore drivers of loyalty and
-   visualize results in an interactive dashboard.
-   
+   visualize results in an interactive dashboard.  
    👉 [`/NPS.ipynb`](./NPS.ipynb)
 
 3. **Borrower Reliability – Credit Risk Analysis**  
    *Python, Pandas, NumPy, Seaborn, Matplotlib, Cursor*  
    This project analyzes the factors that influence a borrower’s ability to repay a loan on time.
-   The study includes data preprocessing, grouping & aggregation, visualizations, insights and interpretations, final summary answering all business questions.
-   
+   The study includes data preprocessing, grouping & aggregation, visualizations, insights and interpretations, final summary answering all business questions.  
    👉 [`/Borrower_Reliability_Study.ipynb`](./Borrower_Reliability_Study.ipynb)
 
-4. **Apartment Listings Market Analysis**
-   *Python, pandas, numpy, matplotlib, seaborn, Jupyter Notebook/Cursor*
+4. **Apartment Listings Market Analysis**  
+   *Python, pandas, numpy, matplotlib, seaborn, Jupyter Notebook/Cursor*  
    A full exploratory data analysis of the St. Petersburg real estate market
    This project analyzes real estate listings from Yandex Real Estate, focusing on apartments in St. Petersburg and surrounding towns.
-   The study includes data cleaning, feature engineering, statistical exploration, and visualization
-   
+   The study includes data cleaning, feature engineering, statistical exploration, and visualization  
    👉 [`/Apartment_Listings_Market_Analysis.ipynb`](./Apartment_Listings_Market_Analysis.ipynb)
 
 
-4. **Analysis of the Film Distribution Market**
-   *Python, pandas, numpy, matplotlib, seaborn, Jupyter Notebook/Cursor*
+4. **Analysis of the Film Distribution Market**  
+   *Python, pandas, numpy, matplotlib, seaborn, Jupyter Notebook/Cursor*  
    In this project we analyse the Russian theatrical film distribution market and identify current trends.  
    A special focus is placed on films that received state financial support.
    We will try to answer the question:
-   Are state-supported films interesting to the audience and how do they perform at the box office?
-   
+   Are state-supported films interesting to the audience and how do they perform at the box office?  
    👉 [`/Film_Distribution_Market_Analysis.ipynb`](./Film_Distribution_Market_Analysis.ipynb)
 
 
