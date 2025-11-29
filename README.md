@@ -35,6 +35,15 @@ from my Statistics & Data Analysis degree at the University of Vienna.
    The study includes data cleaning, feature engineering, statistical exploration, and visualization
    
    👉 [`/Apartment_Listings_Market_Analysis.ipynb`](./Apartment_Listings_Market_Analysis.ipynb)
-  
+
+
+4. **Analysis of the Film Distribution Market**
+   *Python, pandas, numpy, matplotlib, seaborn, Jupyter Notebook/Cursor*
+   In this project we analyse the Russian theatrical film distribution market and identify current trends.  
+   A special focus is placed on films that received state financial support.
+   We will try to answer the question:
+   Are state-supported films interesting to the audience and how do they perform at the box office?
+   
+   👉 [`/Film_Distribution_Market_Analysis.ipynb`](./Film_Distribution_Market_Analysis.ipynb)
 
 
