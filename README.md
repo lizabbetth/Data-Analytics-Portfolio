@@ -27,7 +27,7 @@ They cover marketing analytics, customer loyalty (NPS), credit risk, and univers
    where cafés are most common.  
    The study concludes with strategic recommendations for launching a new café, including type, seating capacity, location, and business format, as well as an evaluation of an
    innovative “robot café” concept.  
-   👉 [`/Robot_Assisted_Cafe_Opening.ipynb`](.Robot_Assisted_Cafe_Opening.ipynb)
+   👉 [`/Robot_Assisted_Cafe_Opening.ipynb`](./Robot_Assisted_Cafe_Opening.ipynb)
 
 3. **Borrower Reliability – Credit Risk Analysis**  
    *Python, Pandas, NumPy, Seaborn, Matplotlib, Cursor*  
